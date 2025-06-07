@@ -36,10 +36,10 @@ The original footer had a dense, almost overwhelming number of links that werenâ
 
 # OUTPUT
 
-BEFORE
+**BEFORE**
 
 ![Image](https://github.com/user-attachments/assets/ac457297-eb8e-4044-bd4b-827fc0e5b8d1)
 
-AFTER
+**AFTER**
 
 ![Image](https://github.com/user-attachments/assets/4ddcccf6-8100-4116-b9fc-0dde10e19193)
