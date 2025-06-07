@@ -33,3 +33,7 @@ I redesigned the call-to-action buttons like “Search,” “Show Prices,” an
 
 6. Organized Footer
 The original footer had a dense, almost overwhelming number of links that weren’t grouped in a user-friendly way. I reorganized the footer into clearly labeled columns—Support, Discover, Terms and Settings, Partners, and About. This not only looks cleaner but also helps users quickly find the links they need, whether it’s customer service, travel articles, or legal information.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/4ddcccf6-8100-4116-b9fc-0dde10e19193)
